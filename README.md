@@ -19,7 +19,7 @@ Make sure you have the following requirements before starting
 2. Basic knowledge about Unity and C#
 
 ## Gif
-![Alt Text]()
+![Alt Text](https://github.com/7divs7/Pumpkin-Hunt/blob/main/pumpkin_hunt.gif)
 
 ## Author
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/divyani-panda-5a8345194/)
