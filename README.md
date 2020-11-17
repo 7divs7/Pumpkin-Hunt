@@ -18,7 +18,8 @@ Make sure you have the following requirements before starting
 1. Unity Game Engine
 2. Basic knowledge about Unity and C#
 
-## Screenshots
+## Gif
+![Alt Text]()
 
 ## Author
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/divyani-panda-5a8345194/)
